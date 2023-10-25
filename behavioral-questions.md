@@ -4,7 +4,8 @@ Answer the following questions. Use the Nugget + STAR method for each answer.
 
 1. Tell me about a project or accomplishment you’re proud of.
 
-- Nugget:
+- Nugget: successfully creating a film and completing the school project with an amazing grade
+
 - Situation: in high school we had to create a short film
 
 - Task: Our task was to conceptualize, shoot, and edit a compelling short film. We needed to manage our time effectively, work cohesively as a team, and showcase our creativity within the constraints of our school environment."
@@ -17,7 +18,8 @@ Answer the following questions. Use the Nugget + STAR method for each answer.
 
 2. Tell me about a time when you had to deal with a high-pressure situation in your job.
 
-- Nugget:
+- Nugget: successfully leading my team to not only achieve sales goals but exceed them 
+
 - Situation:In my previous sales role, our team was facing the end of the quarter with a significant sales goal to meet
 
 - Task:My task was to lead our team in achieving the challenging sales target within a tight deadline
