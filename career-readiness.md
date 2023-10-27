@@ -8,12 +8,13 @@ Creating a technical portfolio website is a big undertaking. Portfolios are almo
 
 Wire frames are used to outline the basic structure of your site. Wire frames should be vague enough to give you flexibility in your development process but structured enough to ensure all appropriate elements are present. 
 
-Submit the link to your wire frames:
+Submit the link to your wire frames: https://app.uizard.io/prototypes/veal7pEmQPfeJbWeyGGO
 
 
 ### LinkedIn
 
-Your LinkedIn url:
+Your LinkedIn url: www.linkedin.com/in/jacob-amezola
+
 
 Check the boxes below to certify that you have completed the following items on LinkedIn:
 

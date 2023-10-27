@@ -8,30 +8,30 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What is JSX? What is one syntax difference between HTML and JSX?
 
-Your answer:
+Your answer: jsx is is Js and HTML together
 
-Researched answer:
+Researched answer: jsx stands for JavaScript XML and it allows us to write HTML is react
 
 2. What is yarn? What file(s) are modified when you run the command yarn in your terminal?
 
-Your answer:
+Your answer:yarn is a package manager
 
-Researched answer:
+Researched answer:package manager for JS allows developers to manage project dependencies it sreves as an alternative to npm
 
 3. What is the difference between state values and props in React?
 
-Your answer:
+Your answer: state values hold information and props are used to pass data
 
 Researched answer:
 
 4. STRETCH: Which is the difference between a div tag and a span tag?
 
-Researched answer:
+Researched answer: a div tag is used for a block level of organization and a span tag is a generic inline elementoften used for styling
 
 ## Looking Ahead: Terms for Next Week
 
-1. DOM: 
+1. DOM: programming interface for web documents, a away for programs to interact with a web page
 
-2. Object-oriented programming:
+2. Object-oriented programming:a way of writing computer programs using "objects."
 
-3. Ruby:
+3. Ruby: an object-oriented programming language designed to be easy to read and write
